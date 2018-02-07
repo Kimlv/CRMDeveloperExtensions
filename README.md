@@ -1,5 +1,11 @@
-##Dynamics CRM Developer Extensions##
-
+### Dynamics CRM Developer Extensions ###  
+  
+  
+    
+**This project is now deprecated in favor of the new version [D365 Developer Extensions](https://github.com/jlattimer/D365DeveloperExtensions)**  
+  
+    
+      
 **Goal**
 
 The goal of this project is to be a free alternative to the CRM Developer Toolkit that shipped with the Dynamics CRM 2011 & 2013 SDK. Currently it contains project and item templates to help jump start the development process, code snippets, a tool to search for CRM related MSDN content, and tooling to assist with managing and deploying web resources, plug-ins, and reports. The plan is to continue to expand and include other tooling to help streamline Dynamics CRM development. 
@@ -10,11 +16,11 @@ Supported versions of Visual Studio include 2012, 2013, & 2015 and will be distr
 
 Install in Visual Studio under Tools -> Extensions and Updates -> Search Online for "Dynamics CRM Developer Extensions" or install directly from the [Visual Studio Gallery](https://visualstudiogallery.msdn.microsoft.com/0f9ab063-acec-4c55-bd6c-5eb7c6cffec4).
 
-####New in v1.3.4.1####
+#### New in v1.3.4.1 ####
 Updated connection string for on premise w/ credentials  
 Added missing quickform snippets
 
-####New in v1.3.4.0####
+#### New in v1.3.4.0 ####
 
 * CRM/D365 v8.2 support
 * Updated to handle 8.2 SDK assemblies
